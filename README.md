@@ -4,5 +4,8 @@ This project predicts whether a molecule is a potential HIV inhibitor or not usi
 
 Tech Stack: Python, RDKit, Pytorch, DeepChem.
 
+#Dataset
+Source: HIV dataset from https://moleculenet.org/datasets-1
+
 # Steps To Run
 Training: Python train.py
